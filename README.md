@@ -9,7 +9,7 @@ I have interest in Mobile Development and UI/UX Design. Currently learning UI/UX
 * Instagram: [**@levinnnho**](https://www.instagram.com/levinnnho/)
 * Email: [**eldwn777@gmail.com**](mailto:eldwn777@gmail.com)
 
-### :wrench: Skills
+### :deciduous_tree: Skills
 * Languages: `HTML`, `CSS`
 * Frameworks and tools: `Bootstrap`, `Tailwind`
 * Networking: `Cisco`, `Mikrotik`
