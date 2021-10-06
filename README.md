@@ -14,5 +14,5 @@ I have interest in Mobile Development and UI/UX Design. Currently learning UI/UX
 * Frameworks: `Bootstrap`, `Tailwind`
 * Networking: `Cisco`, `Mikrotik`
 * Operating System: `Ubuntu`, `Debian`, `CentOS`, `Kali`
-* Database systems: `MySQL/MariaDB`, `PostgreSQL`
+* Database Systems: `MySQL/MariaDB`, `PostgreSQL`
 * Tools: `VSCode`, `GNS3`, `VirtualBox`, `Cisco Packet Tracer`, `Winbox`
