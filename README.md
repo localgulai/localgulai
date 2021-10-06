@@ -11,7 +11,7 @@ I have interest in Mobile Development and UI/UX Design. Currently learning UI/UX
 
 ### :deciduous_tree: Skills
 * Languages: `HTML`, `CSS`
-* Frameworks and tools: `Bootstrap`, `Tailwind`
+* Frameworks: `Bootstrap`, `Tailwind`
 * Networking: `Cisco`, `Mikrotik`
 * Operating System: `Ubuntu`, `Debian`, `CentOS`, `Kali`
 * Database systems: `MySQL/MariaDB`, `PostgreSQL`
