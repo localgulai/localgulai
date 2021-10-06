@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Levin</h1>
+<h3 align="center">Student from Indonesia</h3>
 
-<!--
-**localgulai/localgulai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have interest in Mobile Development and UI/UX Design. Currently learning UI/UX Design. However, I'm excited learning new things!
 
-Here are some ideas to get you started:
+* :potted_plant: Start learning `Dart` soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :leaves: Social Links
+* Instagram: [**@levinnnho**](https://www.instagram.com/levinnnho/)
+* Email: [**eldwn777@gmail.com**](mailto:eldwn777@gmail.com)
+
+### :wrench: Skills
+* Languages: `HTML`, `CSS`
+* Frameworks and tools: `Bootstrap`, `Tailwind`
+* Networking: `Cisco`, `Mikrotik`
+* Operating System: `Ubuntu`, `Debian`, `CentOS`, `Kali`
+* Database systems: `MySQL/MariaDB`, `PostgreSQL`
+* Tools: `VSCode`, `GNS3`, `VirtualBox`, `Cisco Packet Tracer`, `Winbox`
