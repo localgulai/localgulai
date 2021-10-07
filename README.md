@@ -13,6 +13,6 @@ I have interest in Mobile Development and UI/UX Design. Currently learning UI/UX
 * Languages: `HTML`, `CSS`
 * Frameworks: `Bootstrap`, `Tailwind`
 * Networking: `Cisco`, `Mikrotik`
-* Operating System: `Ubuntu`, `Debian`, `CentOS`, `Kali`
+* Operating Systems: `Ubuntu`, `Debian`, `CentOS`, `Kali`
 * Database Systems: `MySQL/MariaDB`, `PostgreSQL`
 * Tools: `VSCode`, `GNS3`, `VirtualBox`, `Cisco Packet Tracer`, `Winbox`
