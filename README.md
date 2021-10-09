@@ -6,7 +6,7 @@ I have interest in Mobile Development and UI/UX Design. Currently learning UI/UX
 * :potted_plant: Start learning `Dart` soon.
 
 ### :leaves: Social Links
-* Instagram: [**@levinnnho**](https://www.instagram.com/levinnnho/)
+* Instagram: [**@localgulai**](https://www.instagram.com/localgulai/)
 * Email: [**eldwn777@gmail.com**](mailto:eldwn777@gmail.com)
 
 ### :deciduous_tree: Skills
