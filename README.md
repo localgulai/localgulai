@@ -5,9 +5,6 @@ I have interest in Mobile Development and UI/UX Design. Currently learning UI/UX
 
 * :potted_plant: Start learning `Dart` soon.
 
-### :leaves: Social Links
-* Instagram: [**@localgulai**](https://www.instagram.com/localgulai/)
-* Email: [**eldwn777@gmail.com**](mailto:eldwn777@gmail.com)
 
 ### :deciduous_tree: Skills
 * Languages: `HTML`, `CSS`
@@ -16,3 +13,7 @@ I have interest in Mobile Development and UI/UX Design. Currently learning UI/UX
 * Operating Systems: `Ubuntu`, `Debian`, `CentOS`, `Kali`
 * Database Systems: `MySQL/MariaDB`, `PostgreSQL`
 * Tools: `VSCode`, `GNS3`, `VirtualBox`, `Cisco Packet Tracer`, `Winbox`
+
+### :leaves: Social Links
+* Instagram: [**@localgulai**](https://www.instagram.com/localgulai/)
+<!--* Email: [**eldwn777@gmail.com**](mailto:eldwn777@gmail.com) -->
