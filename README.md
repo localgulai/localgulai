@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levin</h1>
 <h3 align="center">Student from Indonesia</h3>
 
-I have interest in Mobile Development and UI/UX Design. Currently learning UI/UX Design. However, I'm excited learning new things!
+I have interest in Mobile Development and UI/UX Design. Currently learning `C++`. However, I'm excited learning new things!
 
 * :potted_plant: Start learning `Dart` soon.
 
