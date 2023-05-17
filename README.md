@@ -5,6 +5,7 @@ I have interest in Cyber Security, Web Development, Mobile Development and UI/UX
 However, I'm excited learning new things!
 
 * :potted_plant: Start learning `Dart` soon.
+* :potted_plant: Maybe I'm into `Kotlin` first :p.
 
 
 ### :deciduous_tree: Skills
