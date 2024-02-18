@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Levin</h1>
 <h3 align="center">Student from Indonesia</h3>
 
-I have interest in Cyber Security, Web Development, Mobile Development and UI/UX Design. Currently still learning `Mobile Development`. \
+I have interest in Cyber Security, Web Development, Mobile Development and UI/UX Design. Currently still learning `Mobile Development`. <br/>
 However, I'm excited learning new things!
 
-* :potted_plant: Start learning `Flutter` now.
+* :potted_plant: Start learning `Flutter` & `Kotlin` now.
   
 
 
 ### :deciduous_tree: Skills
-* Programming: `Python`, `JavaScript`, `PHP`, `C++`, `Golang`, `Kotlin`
+* Programming: `Python`, `JavaScript`, `PHP`, `C++`, `Golang`, `Kotlin`, `Kotlin`
 * Cyber Security: `Web Exploitation`
 * Networking: `Cisco`, `Mikrotik`
 * Operating Systems: `Ubuntu`, `Debian`, `CentOS`, `Kali`
