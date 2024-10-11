@@ -2,7 +2,7 @@
 <h3 align="center">Student from Indonesia</h3>
 
 I have interest in Cyber Security and Mobile Development. Currently still learning `Mobile Development`. <br/>
-and some `Mobile Exploitation`
+and some `Mobile Exploitation`. 
 However, I'm excited learning new things!
 
 * :potted_plant: Start learning `Flutter` & `Kotlin` now.
